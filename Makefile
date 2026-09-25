@@ -1,4 +1,4 @@
-TARGET = main2         # .exe 없음 (Windows는 program.exe)
+TARGET = main3         # .exe 없음 (Windows는 program.exe)
 SRCS = main.c
 OBJS = $(SRCS:.c=.o)
 CC = gcc
